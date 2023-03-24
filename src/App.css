@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.iconColor {
+  color: #ffc700;
+  width: 109px;
+  height: 110px;
+}
+
+.weatherTitleCol {
+  display: flex;
+  align-items: center;
+  padding: 0 !important;
+}
+
+.titleTxt {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 0;
+  margin-top: 2.5rem;
+}
+.contStyle {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important;
+}
+
+.createdByTxt{
+  color: white;
+}
+

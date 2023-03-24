@@ -1,0 +1,160 @@
+.inputStyle {
+  background-color: #152263;
+  color: white;
+  height: 3rem;
+  border-radius: 5px;
+  width: 15rem;
+}
+
+.txt {
+  color: white;
+  font-size: 40px;
+  margin-left: 5rem;
+  margin-top: 5rem;
+  width: 5rem;
+}
+.txtTwo {
+  color: white;
+  font-size: 40px;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  font-weight: 700px;
+}
+
+.btnStyle {
+  background-color: #ffc700;
+  border-radius: 5px;
+  border-color: #ffc700;
+}
+
+.boxOne {
+  padding-left: 0 !important;
+ 
+}
+
+.rowOne {
+  margin-left: 3px;
+}
+
+.tallBox {
+  width: 20rem;
+  height: 50rem;
+  background-color: #152263;
+  border-radius: 15px;
+  margin-left: 10rem;
+}
+
+.tallBoxTitle {
+  color: white;
+  margin-top: 2rem;
+}
+
+.fiveDayWeather {
+  color: white;
+  margin-left: 2rem;
+  font-size: 15px;
+}
+
+.fiveDayTexts {
+  margin-top: 3rem;
+}
+
+.monDayTxt {
+  color: white;
+  margin-left: 2rem;
+  font-size: 20px;
+  /* margin-top: 7rem; */
+}
+.monDayTxt {
+  color: white;
+  margin-left: 2rem;
+  font-size: 20px;
+  /* margin-top: 7rem; */
+}
+.tuesDayTxt {
+  color: white;
+  margin-left: 2rem;
+  font-size: 20px;
+  /* margin-top: 7rem; */
+}
+.wedDayTxt {
+  color: white;
+  margin-left: 2rem;
+  font-size: 20px;
+  /* margin-top: 7rem; */
+}
+.thurDayTxt {
+  color: white;
+  margin-left: 2rem;
+  font-size: 20px;
+  /* margin-top: 7rem; */
+}
+
+.dayOne {
+  display: flex;
+  margin-top: 5rem;
+}
+
+.todayWeather {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.enterBtn {
+  margin-left: 10px;
+  font-size: 25px;
+}
+.favBtn {
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.boxTwo {
+  position: absolute;
+  width: 40rem;
+  height: 375px;
+  top: 584.66px;
+
+  background: #152263;
+  border-radius: 10px;
+}
+
+.todayCol{
+  text-align: center;
+}
+.todayTxt{
+  color: white;
+  font-size: 20px;
+}
+
+.iconStyle{
+  width: 160px;
+  height: 160px; 
+  margin-left: 20rem;
+  float: right;
+}
+.iconMon{
+  width: 4rem;
+  width: 4rem;
+  margin-left: 10rem;
+}
+
+.canvasColor{
+  background-color: #00042B;
+}
+
+.todayColTitleBtn{
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+.favoriteBTn{
+  
+}
+
+@media (max-width: 400px){
+  .tallBox{
+    flex-wrap: nowrap;
+  }
+}

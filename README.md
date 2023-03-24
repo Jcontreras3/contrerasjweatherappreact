@@ -1,3 +1,7 @@
+ Peer reviewed by: Lerissa
+ Review:Your weather app works well, when you search a city everything works as its supposed to and the right things pop up. Your mobile responsiveness needs fixing but the laptop version looks really good. I liked where you were going with the off canvas and if you finished it i believe it would've looked really good. Great job!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
